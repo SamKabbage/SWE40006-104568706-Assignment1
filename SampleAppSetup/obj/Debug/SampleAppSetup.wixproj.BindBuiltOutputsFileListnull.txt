@@ -1,0 +1,2 @@
+C:\Users\NoMyC\source\repos\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.msi
+C:\Users\NoMyC\source\repos\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.wixpdb
